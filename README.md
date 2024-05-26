@@ -6,4 +6,4 @@
 
 ## А теперь самое главное - моя любимый персонаж.
 
-![grogu](https://raw.githubusercontent.com/Anikenator/website/main/scale_1200.png)
+![grogu](https://i.ibb.co/L6xHWhJ/scale-1200.png)

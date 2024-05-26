@@ -5,3 +5,5 @@
 *(И прохожу курсы по тестированию)*
 
 ## А теперь самое главное - моя любимый персонаж.
+
+![grogu](https://raw.githubusercontent.com/Anikenator/website/main/scale_1200.png)
